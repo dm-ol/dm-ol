@@ -6,5 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,vscode,git,github,docker,bash,aws,kubernetes)](https://skillicons.dev)
 
+
 - I’m currently learning "DevOps та Kubernetes. Practical intensive course" on the Prometheus platform.
 - This repository was created specifically for the educational process.
+
+  <a href="https://u8views.com/github/dm-ol"><img src="https://u8views.com/api/v1/github/profiles/149588780/views/day-week-month-total-count.svg"></a>
