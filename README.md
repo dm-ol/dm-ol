@@ -4,7 +4,7 @@
 
 ### :hammer_and_wrench: I’m currently learning :
 
-[![My Skills](https://skillicons.dev/icons?i=linux,go,vscode,git,github,docker,bash,aws,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,go,gcp,git,gitlab,docker,bash,aws,kubernetes,grafana,prometheus,terraform)](https://skillicons.dev)
 
 
 - I’m currently learning "DevOps та Kubernetes. Practical intensive course" on the Prometheus platform.
