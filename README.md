@@ -10,7 +10,7 @@
 - I’m currently learning "DevOps та Kubernetes. Practical intensive course" on the Prometheus platform.
 - This repository was created specifically for the educational process.
 
-  ## Contact Me
+  ## :iphone: Contact Me
 If you are interested in working with me or have any questions, please feel free to contact me via email or LinkedIn.
 Thank you for visiting my GitHub profile! 
 
