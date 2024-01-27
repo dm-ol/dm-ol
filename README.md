@@ -10,4 +10,12 @@
 - I’m currently learning "DevOps та Kubernetes. Practical intensive course" on the Prometheus platform.
 - This repository was created specifically for the educational process.
 
+  ## Contact Me
+If you are interested in working with me or have any questions, please feel free to contact me via email or LinkedIn.
+Thank you for visiting my GitHub profile! 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdm/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devdm_dp)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdm.dp@gmail.com)
+
   <a href="https://u8views.com/github/dm-ol"><img src="https://u8views.com/api/v1/github/profiles/149588780/views/day-week-month-total-count.svg"></a>
