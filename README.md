@@ -18,4 +18,11 @@ Thank you for visiting my GitHub profile!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devdm_dp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdm.dp@gmail.com)
 
+<a href="https://github.com/dm-ol?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dm-ol&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/dm-ol?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dm-ol&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
   <a href="https://u8views.com/github/dm-ol"><img src="https://u8views.com/api/v1/github/profiles/149588780/views/day-week-month-total-count.svg"></a>
