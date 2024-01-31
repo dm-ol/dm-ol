@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,py,go,gcp,git,gitlab,docker,bash,aws,kubernetes,grafana,prometheus,terraform)](https://skillicons.dev)
 
 
-- I’m currently learning "DevOps та Kubernetes. Practical intensive course" on the Prometheus platform.
+- I’m currently learning DevOps and GitOps techniques, Kubernetes and cloud platforms. I also started learning Python.
 - This repository was created specifically for the educational process.
 
   ## :iphone: Contact Me
