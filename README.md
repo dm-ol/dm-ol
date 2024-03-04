@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmytro</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IT switcher, DevOps engineer in the future. Live in Ukraine<img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/></h3>
+<h3 align="center">IT switcher, now Junior DevOps engineer. Live in Ukraine<img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/></h3>
 
   ## :hammer_and_wrench: I am currently studying or planning to study:
   
