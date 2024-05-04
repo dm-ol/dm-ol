@@ -4,7 +4,7 @@
 
   ## :hammer_and_wrench: I am currently studying or planning to study:
   
-[![My Skills](https://skillicons.dev/icons?i=gcp,py,django,kubernetes,terraform,grafana,prometheus,linux,git,gitlab,docker,ansible,bash,go,mysql,mongodb&perline=15&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,py,django,kubernetes,terraform,grafana,prometheus,linux,git,gitlab,docker,ansible,bash,mysql,mongodb&perline=15&theme=light)](https://skillicons.dev)
 
 
 - I’m currently learning DevOps and GitOps techniques, Kubernetes and cloud platforms. I also started learning Python.
